@@ -61,6 +61,10 @@ User: What are your store hours?
 Assistant: Our stores are open Monday-Saturday, 9 AM to 9 PM. Would you like to find the nearest store?
 ```
 
+![WhatsApp Image 2025-04-29 at 23 00 59_9235d44a](https://github.com/user-attachments/assets/751b9dff-c935-4b95-b7d6-4cc0289a1a51)
+![WhatsApp Image 2025-04-29 at 23 01 26_0e3d877f](https://github.com/user-attachments/assets/156c6bab-edfc-4efb-96e2-c8632cbaf560)
+![WhatsApp Image 2025-04-29 at 23 01 47_0545530f](https://github.com/user-attachments/assets/992a5928-eacc-49b0-ba77-39f7bd0f3635)
+
 ## Libraries Used
 
 - transformers: For the DistilBERT model
